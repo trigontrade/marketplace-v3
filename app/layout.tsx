@@ -6,9 +6,9 @@ import "@/globals.css";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "thirdweb Marketplace Template",
+  title: "PopCat Marketplace Template",
   description:
-		"Create an NFT marketplace on top of your NFT collection on any EVM-compatible blockchain.",
+		"Create an NFT marketplace on top of your NFT collection on any EVM-compatible blockchain by PopCatDev.",
 };
 
 export default function RootLayout({
