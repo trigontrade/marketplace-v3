@@ -22,10 +22,10 @@ const Home: NextPage = () => {
       <div className="px-8 mx-auto text-center">
         <h1 className="mb-5 text-white font-bold text-6xl">
           <span className="text-transparent bg-clip-text gradient">
-						Build NFT Marketplaces
+						NFT Marketplaces
           </span>
           <br />
-					faster than ever.
+					better than ever.
         </h1>
         <p className="text-white/60 text-lg max-w-xl mx-auto">
           <Link
@@ -33,23 +33,23 @@ const Home: NextPage = () => {
             href="https://thirdweb.com"
             target="_blank"
           >
-						thirdweb
+						exaple description
           </Link>{" "}
 					gives you the tools you need to create audited, performant,
-					and flexible NFT marketplaces in <b>hours</b>,{" "}
+					and flexible NFT marketplaces and projects in <b>hours</b>,{" "}
           <i>not months</i>.
         </p>
 
         <div className="flex justify-center text-lg font-medium items-center mt-12 gap-4">
           <Link
             className="w-56 p-3 rounded-lg transition-all hover:shadow-lg gradient border-white/10 border"
-            href="https://portal.thirdweb.com/"
+            href="#"
           >
 						Get Started
           </Link>
           <Link
             className="w-56 p-3 rounded-lg bg-white/[.04] transition-all hover:bg-white/[.06] border-white/10 border"
-            href="https://github.com/thirdweb-example/marketplace-v3"
+            href="#"
             target="_blank"
           >
 						GitHub
